@@ -1,0 +1,13 @@
+@media screen and (max-width: 991px){
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+    .nav-links{
+        display:none;
+    }
+
+    .examples-card{
+        width: 50%;
+    }
+}
